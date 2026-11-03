@@ -1,16 +1,13 @@
-## Hi there 👋
+# Favas.dev
 
-<!--
-**heyfavas-cell/heyfavas-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I run Open Horizon Research Foundry, a small independent lab that tests quantum compilers' claims: rules fixed in advance and timestamped, every output checked with an equivalence checker, and null results published.
 
-Here are some ideas to get you started:
+**Results:** [heyfavas-cell/ohrf-results](https://github.com/heyfavas-cell/ohrf-results) · DOI [10.5281/zenodo.23906909](https://doi.org/10.5281/zenodo.23906909)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| # | Study | Outcome |
+|---|---|---|
+| 1 | Reordering existing passes against GUOQ on 145 fresh QAOA circuits | Null |
+| 2 | Audit of Qiskit, pytket and PyZX for wrong outputs | Fallback: no new wrong output |
+| 3 | AI models triaging the audit's findings | Fail under its own rule |
+
+Contact: hi@favas.dev
