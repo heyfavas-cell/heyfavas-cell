@@ -10,6 +10,6 @@ My engineering work: [@favasMuhammed](https://github.com/favasMuhammed) · [fava
 |---|---|---|
 | 1 | Reordering existing passes against GUOQ on 145 fresh QAOA circuits | Null |
 | 2 | Audit of Qiskit, pytket and PyZX for wrong outputs | Fallback: no new wrong output |
-| 3 | AI models triaging the audit's findings | Fail under its own rule |
+| 3 | Automated bug-triage test on the audit's findings | Fail under its own rule |
 
-Contact: [hi@favas.dev](mailto:hi@favas.dev)
+Contact: hi@favas.dev · Web and client work: [github.com/favasMuhammed](https://github.com/favasMuhammed) · [favas.dev](https://favas.dev)
